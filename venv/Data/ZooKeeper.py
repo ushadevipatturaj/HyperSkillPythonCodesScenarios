@@ -95,7 +95,6 @@ _________________               _________________
                 ~-. /  \_/  \ .-~
                    V         V
 It looks like this bat is fine."""
-
 rabbit = r"""
 Switching on camera from habitat with rabbits...
          ,
