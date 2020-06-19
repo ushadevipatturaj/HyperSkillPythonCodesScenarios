@@ -3,6 +3,7 @@ ticket = input()
 
 # Add up the digits for each half
 string_ticket = list(ticket)
+
 half1 = int(string_ticket[0]) + int(string_ticket[1]) + int(string_ticket[2])
 half2 = int(string_ticket[3]) + int(string_ticket[4]) + int(string_ticket[5])
 
